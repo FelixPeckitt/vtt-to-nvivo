@@ -12,6 +12,9 @@ clean transcript in the column layout NVivo expects.
 - **Python 3.8+**
 - Single file, easy to drop into a repo or a researcher's toolkit.
 
+For conversions to NVIVO12, I recommend SecurityEssentials project Teams2Nvivo:
+<https://securityessentials.github.io/Teams2NVivo/>
+
 ---
 
 ## What it does

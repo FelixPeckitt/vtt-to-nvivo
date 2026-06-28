@@ -279,10 +279,6 @@ source audio before analysis, and any cleaning applied here (e.g.
 This utility was written with the assistance of an AI coding model (Anthropic's
 Claude) and reviewed and tested by the maintainer. It is provided as-is; please
 review the code before using it on sensitive data.
-
-*Maintainers: edit this section to name yourself and your review process, and
-keep it accurate for your repository.*
-
 ---
 
 ## Contributing

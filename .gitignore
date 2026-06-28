@@ -1,0 +1,17 @@
+# Transcripts and generated output — may contain sensitive/identifiable data.
+# Keep real interview data out of the repo.
+*.vtt
+*.txt
+/outputs/
+/nvivo/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
